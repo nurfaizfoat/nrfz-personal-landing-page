@@ -6,7 +6,7 @@ This is the source files for my personal landing page that I made for showcasing
 ### Features
 
 * Responsive
-* Light and minifed
+* Light
 * Retina ready
 * Geeky moving starfield in CSS3..Yeay! (^.^)
 
